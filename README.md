@@ -16,6 +16,6 @@ Aplikace Text Generator vytváří náhodný text. Můžete si vybrat ze tří m
 ## Důležité
 - Program uloží vygenerovaný text do souboru "generated_text.txt", pokud je vybráno uložení do souboru.
 
-Během tvorby této aplikace jsem se naučil několik klíčových dovedností:
+Během tvorby této aplikace jsem se naučil:
 - **Metody řetězců:** Použití metod jako replace, split.
 - **Práce se soubory:** Schopnost ukládat vygenerovaný text do souboru a ho otevírat.
